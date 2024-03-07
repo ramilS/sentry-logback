@@ -1,0 +1,3 @@
+sentry:
+  dsn: https://123@some-sentry.com/1
+  environment: DEV
